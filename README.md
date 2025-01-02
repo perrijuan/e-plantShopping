@@ -66,6 +66,10 @@ This title and description highlight:
 2. The technical implementations (Redux, dynamic calculations)
 3. The key features that make your project stand out
 4. The organized structure and technologies used
+
+photos of project :
+![Screenshot 2025-01-02 at 17-54-03 E-Plant](https://github.com/user-attachments/assets/06dbc767-889d-48f7-915f-3c18cedfb755)
+
 ![Screenshot 2025-01-02 at 17-54-13 E-Plant](https://github.com/user-attachments/assets/baa41246-8d63-4d37-a13d-32687b7c57ea)
 ![Screenshot 2025-01-02 at 17-54-21 E-Plant](https://github.com/user-attachments/assets/2fbd978e-073c-4a50-a5d9-414a0db4101b)
 ![Screenshot 2025-01-02 at 17-54-29 E-Plant](https://github.com/user-attachments/assets/cfcc1df3-99f1-42b0-890b-1a52a54e20de)
